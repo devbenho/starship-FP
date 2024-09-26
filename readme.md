@@ -22,7 +22,7 @@
 1. Clone the repository:
    ```bash
    git clone git@github.com:devbenho/starship-FP.git
-   cd your-repo-name
+   cd starship-FP
    ```
 
 2. Install dependencies:
