@@ -21,7 +21,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/devbenho/starship.git
+   git clone git@github.com:devbenho/starship-FP.git
    cd your-repo-name
    ```
 
